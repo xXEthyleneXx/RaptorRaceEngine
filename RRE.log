@@ -1,0 +1,48 @@
+INFO:root:[RRE][__init__] Loading Classes
+INFO:root:[RRE][__init__] 6 Classes Loaded in 0.0001 Sec
+INFO:root:[RRE][__init__] Loading TrackLib
+INFO:root:[RRE][__init__] 3 Tracks Loaded 7 Track Sections loaded in 0.0001
+INFO:root:[RRC][__init__] Initializing
+INFO:root:[RRE][__init__] Loading Classes
+INFO:root:[RRE][__init__] 6 Classes Loaded in 0.0001 Sec
+INFO:root:[RRE][__init__] Loading TrackLib
+INFO:root:[RRE][__init__] 3 Tracks Loaded 7 Track Sections loaded in 0.0001
+INFO:root:[RRC][__init__] Initialized
+INFO:root:[RRC][_loadCar] Starting loadCar
+INFO:root:[RRC][_loadCar] Opened cars/5c8f386c-47f1-4ac8-8160-7b4ed936fb85/car.rrc File
+INFO:root:[RRC][_loadCar] Opened cars/5c8f386c-47f1-4ac8-8160-7b4ed936fb85/car.key File
+INFO:root:[RRC][_loadCar] Enabling Encryption Key
+INFO:root:[RRC][_loadCar] Decrypting Car and Loading Stats
+INFO:root:[RRC][_loadCar] Finished loadCar
+INFO:root:[RRC][__init__] Initializing
+INFO:root:[RRE][__init__] Loading Classes
+INFO:root:[RRE][__init__] 6 Classes Loaded in 0.0001 Sec
+INFO:root:[RRE][__init__] Loading TrackLib
+INFO:root:[RRE][__init__] 3 Tracks Loaded 7 Track Sections loaded in 0.0001
+INFO:root:[RRC][__init__] Initialized
+INFO:root:[RRC][genCar] Starting Car Generation
+INFO:root:[RRC][genCar] Aquiring Car Speed
+INFO:root:[RRC][genCar] Car Speed {'baseValue': 600, 'valuePercentDeviation': 40, 'valuePercentDeviationPercent': 0.4, 'maxV': 720.0, 'value': 606.09, 'valueDeviation': 0.12, 'deviateValue': 678.821, 'valueValue': 42.426}
+INFO:root:[RRC][genCar] Aquiring Car Acceleration
+INFO:root:[RRC][genCar] Car Acceleration {'baseValue': 600, 'valuePercentDeviation': 21, 'valuePercentDeviationPercent': 0.21, 'maxV': 663.0, 'value': 619.52, 'valueDeviation': 0.01, 'deviateValue': 625.715, 'valueValue': 39.107}
+INFO:root:[RRC][genCar] Aquiring Car Braking
+INFO:root:[RRC][genCar] Car Braking {'baseValue': 600, 'valuePercentDeviation': 30, 'valuePercentDeviationPercent': 0.3, 'maxV': 690.0, 'value': 604.82, 'valueDeviation': -0.15, 'deviateValue': 514.097, 'valueValue': 32.131}
+INFO:root:[RRC][genCar] Aquiring Car Traction
+INFO:root:[RRC][genCar] Car Traction {'baseValue': 600, 'valuePercentDeviation': 39, 'valuePercentDeviationPercent': 0.39, 'maxV': 717.0, 'value': 685.48, 'valueDeviation': 0.15, 'deviateValue': 788.302, 'valueValue': 49.269}
+INFO:root:[RRC][genCar] Finished Generation carUUID 8c13716f-51f3-476d-be73-f7f0bf971b3c
+INFO:root:[RRE][initRace] Starting raceCars
+INFO:root:[RRE][initRace] Cars Valid Type
+INFO:root:[RRE][initRace] Track Valid Type
+INFO:root:[RRE][initRace] Laps Valid Type
+INFO:root:[RRE][initRace] Settings Laps to 10
+INFO:root:[RRE][initRace] Setting Track to olympia
+INFO:root:[RRE][initRace] Testing Car 1
+INFO:root:[RRE][initRace] Car {'class': 'X', 'speed': 33.749, 'acceleration': 42.967, 'braking': 39.287, 'traction': 40.774, 'uuid': '5c8f386c-47f1-4ac8-8160-7b4ed936fb85', 'creationDate': '11/03/22-14:31:03'} In Race
+INFO:root:[RRE][initRace] Testing Car 2
+INFO:root:[RRE][initRace] Car {'class': 'X', 'speed': 42.426, 'acceleration': 39.107, 'braking': 32.131, 'traction': 49.269, 'uuid': '8c13716f-51f3-476d-be73-f7f0bf971b3c', 'creationDate': '11/03/22-18:11:18'} In Race
+INFO:root:[RRC][__init__] Initializing
+INFO:root:[RRE][__init__] Loading Classes
+INFO:root:[RRE][__init__] 6 Classes Loaded in 0.0001 Sec
+INFO:root:[RRE][__init__] Loading TrackLib
+INFO:root:[RRE][__init__] 3 Tracks Loaded 7 Track Sections loaded in 0.0001
+INFO:root:[RRC][__init__] Initialized

@@ -1,0 +1,2 @@
+7z a -r -p -mhe backups/RRE-11.3.2022-v1_00.7z -x\!backups -x\!.git
+
