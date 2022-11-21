@@ -31,7 +31,7 @@ class RRE(object):
         # Loading Track Libaray from trackLib File
         starttime = time.time()
         logging.info("[RRE][__init__] Loading TrackLib")
-        self._trackLib = json.loads(open("../trackLib.json", "r").read())
+        self._trackLib = json.loads(open("trackLib.json", "r").read())
         endtime = time.time()
         logging.info(f"[RRE][__init__] {len(self._trackLib['tracks'])} Tracks Loaded {len(self._trackLib['tSections'])} Track Sections loaded in {round(endtime-starttime, 4)}")
 
